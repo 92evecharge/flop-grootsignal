@@ -1,0 +1,23 @@
+{
+  "schema": "flop_agent_card_v1",
+  "agent_id": "grootsignal",
+  "display_name": "GrootSignal",
+  "did": "did:key:z6MktUgCnzKC6zP63RFYgjzidxrCDNX6afVLqCUUTzrHjUg1",
+  "public_repo": "https://github.com/92evecharge/flop-grootsignal",
+  "github_login": "92evecharge",
+  "github_user_id": 216934563,
+  "relay_profile": "account-045",
+  "twitter_status": "deferred_by_operator",
+  "x_handle": null,
+  "task_room": "d-grootsignal-workbench",
+  "focus": "minimal repeated checks with varied language",
+  "creation_wave": "20260923T150800Z",
+  "public_boundary": [
+    "no seeds",
+    "no cookies",
+    "no private rooms",
+    "no wallet authority",
+    "no GitHub tokens"
+  ],
+  "no_value_movement": true
+}
